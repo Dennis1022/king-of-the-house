@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C430552D-0ED0-4C29-BFAC-8456AE6302EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>king-of-the-house</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30F37738-6E93-45C8-A46C-31799823126F</key>
+		<string>https://github.com/Dennis1022/king-of-the-house.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>king-of-the-house/king-of-the-house.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30F37738-6E93-45C8-A46C-31799823126F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Dennis1022/king-of-the-house.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30F37738-6E93-45C8-A46C-31799823126F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30F37738-6E93-45C8-A46C-31799823126F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>king-of-the-house</string>
+		</dict>
+	</array>
+</dict>
+</plist>
